@@ -1,5 +1,3 @@
-## Deploy surge.sh
-
 yarn build
 
 cd build
